@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+	<flow name="munitFlow" doc:id="67be834f-a861-4d9b-a33e-d065074be61c" >
+		<set-payload value="This is example" doc:name="Set Payload" doc:id="0b0cea2f-ab8c-44d9-9969-d3087c06fd50" />
+	</flow>
+</mule>
